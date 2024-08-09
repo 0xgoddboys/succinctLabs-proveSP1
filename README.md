@@ -1,2 +1,1 @@
-# GITPOD
-lobby
+SuccinctLabs-proveSP1
